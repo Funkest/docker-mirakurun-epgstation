@@ -2,7 +2,7 @@
 
 [Mirakurun](https://github.com/Chinachu/Mirakurun) + [EPGStation](https://github.com/l3tnun/EPGStation) の Docker コンテナ
 
-## Fork from l3tnun後の更新内容
+## Fork from [origin](https://github.com/l3tnun/docker-mirakurun-epgstation)後の更新内容
 - カードリーダ`NEC CK1506-02`を利用可能とした.
 
 ## 前提条件
