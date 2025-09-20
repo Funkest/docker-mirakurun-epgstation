@@ -9,3 +9,6 @@ cp epgstation/config/operatorLogConfig.sample.yml epgstation/config/operatorLogC
 cp epgstation/config/epgUpdaterLogConfig.sample.yml epgstation/config/epgUpdaterLogConfig.yml
 cp epgstation/config/serviceLogConfig.sample.yml epgstation/config/serviceLogConfig.yml
 docker-compose run --rm -e SETUP=true mirakurun
+
+# added by me
+sudo cp -f 'me.files/libccid_Info.plist' '/etc/libccid_Info.plist'
